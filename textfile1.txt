@@ -1,2 +1,5 @@
 inside text file 1
+Insert line 2
 for merge conflict
+
+
